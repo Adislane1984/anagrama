@@ -1,0 +1,15 @@
+Academia Capgemini 2022
+
+Adislane Barreto de Carvalho
+
+Projeto de construção de um algoritmo que Dada uma string qualquer, desenvolva um algoritmo que 
+encontre o número de pares de substrings que são anagramas.
+
+Nome do projeto : Anagrama
+Classe do projeto : anagramas
+Criado no IntelliJ IDEA 2021.2.3 (Community Edition)
+
+####################### Rodar o projeto Anagrama ############################
+
+1 - O sistema recebe a entrada de dados para o usuário digitar
+2 - O sistema retorna quantos caracteres repetidos e a combinação das palavras
